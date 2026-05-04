@@ -1,0 +1,24 @@
+{
+    "name": "Claw’d",
+    "type": "ERC20",
+    "symbol": "Clawd",
+    "decimals": 12,
+    "website": "https://clawdmascot.com/",
+    "description": "Claude is the AI engineers ship code with. The API every serious builder pays full price for. Built by Anthropic, valued past two hundred billion, growing faster than any AI lab on earth.",
+    "explorer": "https://etherscan.io/token/0x46d03Ff0FE7E539804678530eA5D6289a76C1ADe",
+    "status": "active",
+    "id": "0x46d03Ff0FE7E539804678530eA5D6289a76C1ADe",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/clawdmascot"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/clawdmascot"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+}
